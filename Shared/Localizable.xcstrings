@@ -1,0 +1,188 @@
+{
+  "sourceLanguage" : "de",
+  "strings" : {
+    "Reflexion im Spiel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reflection in the game" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Reflexión en el juego" } }
+      }
+    },
+    "Session starten" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Start session" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Empezar sesión" } }
+      }
+    },
+    "Startet…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Starting…" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Empezando…" } }
+      }
+    },
+    "Aufnahme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Record" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Grabar" } }
+      }
+    },
+    "Tippen zum Stoppen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Tap to stop" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Toca para parar" } }
+      }
+    },
+    "Endet automatisch in %lld s" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Auto-stops in %lld s" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Termina en %lld s" } }
+      }
+    },
+    "Weiter aufnehmen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keep recording" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Seguir grabando" } }
+      }
+    },
+    "Maximale Länge erreicht" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Maximum length reached" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Duración máxima alcanzada" } }
+      }
+    },
+    "%lld Aufnahmen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld recordings" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%lld grabaciones" } }
+      }
+    },
+    "%lld warten auf Sync" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld waiting to sync" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%lld esperando sincronización" } }
+      }
+    },
+    "Alles synchronisiert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "All synced" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Todo sincronizado" } }
+      }
+    },
+    "Session beenden" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "End session" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Terminar sesión" } }
+      }
+    },
+    "Session wird beendet…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ending session…" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Terminando sesión…" } }
+      }
+    },
+    "Session beendet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Session complete" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Sesión terminada" } }
+      }
+    },
+    "Fertig" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Done" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Listo" } }
+      }
+    },
+    "Workout in Health gespeichert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Workout saved to Health" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Entreno guardado en Salud" } }
+      }
+    },
+    "%lld syncen noch…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%lld still syncing…" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%lld sincronizando…" } }
+      }
+    },
+    "Alle auf dem iPhone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "All on your iPhone" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Todo en el iPhone" } }
+      }
+    },
+    "Ø %lld bpm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Avg %lld bpm" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Ø %lld ppm" } }
+      }
+    },
+    "Noch keine Aufnahmen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No recordings yet" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Aún no hay grabaciones" } }
+      }
+    },
+    "Starte eine Session auf der Watch. Aufnahmen erscheinen hier automatisch nach dem Sync." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Start a session on your watch. Recordings show up here automatically after syncing." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Inicia una sesión en el reloj. Las grabaciones aparecen aquí automáticamente tras sincronizar." } }
+      }
+    },
+    "%@ Uhr · %lld Aufnahmen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "%@ · %lld recordings" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "%@ · %lld grabaciones" } }
+      }
+    },
+    "Profil" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Profile" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Perfil" } }
+      }
+    },
+    "Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Name" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Nombre" } }
+      }
+    },
+    "Sichern" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Guardar" } }
+      }
+    },
+    "Trennt deine Aufnahmen online von anderen Profilen. Nur Kleinbuchstaben und Zahlen." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keeps your recordings separate from other profiles online. Lowercase letters and numbers only." } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Separa tus grabaciones de otros perfiles en línea. Solo minúsculas y números." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

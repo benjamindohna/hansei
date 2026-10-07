@@ -1,0 +1,9 @@
+Fehlermap.xcodeproj/
+.DS_Store
+xcuserdata/
+build/
+DerivedData/
+
+# Secrets
+.upload-token
+FehlermapiOS/Secrets.swift
